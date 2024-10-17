@@ -1,4 +1,8 @@
-# Prueba
-1+1=2
-Soy gilipollas
-int a = 1;
+#include <iostream>
+using namespace std;
+
+int main () {
+	cout << "Hola, mundo!" << endl;
+
+return 0;
+}
